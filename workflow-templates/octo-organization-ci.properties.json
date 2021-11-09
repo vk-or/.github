@@ -1,9 +1,10 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI workflow template.",
-    "iconName": "example-icon",
+    "name": "VK test workflow",
+    "description": "VK test CI workflow template.",
+    "iconName": "atg-logo",
     "categories": [
-        "Go"
+        "Java",
+        "Kotlin"
     ],
     "filePatterns": [
         "package.json$",
