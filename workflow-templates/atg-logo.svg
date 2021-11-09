@@ -1,0 +1,76 @@
+<svg id="ATG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1324.13877 543.66973">
+  <defs>
+    <clipPath id="clip-path">
+      <polygon points="229.085 2.502 3.809 541.084 1095.513 541.084 1320.767 2.502 229.085 2.502" fill="#006bab"/>
+    </clipPath>
+    <linearGradient id="Namnlös_övertoning_13" data-name="Namnlös övertoning 13" x1="1028.38641" y1="-55.51529" x2="823.22633" y2="432.63994" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12406d"/>
+      <stop offset="0.15323" stop-color="#143b68"/>
+      <stop offset="0.76867" stop-color="#1b2c56"/>
+    </linearGradient>
+    <linearGradient id="Namnlös_övertoning_4" data-name="Namnlös övertoning 4" y1="410.16268" x2="1097.1053" y2="410.16268" gradientUnits="userSpaceOnUse">
+      <stop offset="0.15059" stop-color="#11406d"/>
+      <stop offset="0.5679" stop-color="#143158"/>
+      <stop offset="1" stop-color="#172546"/>
+    </linearGradient>
+    <linearGradient id="Namnlös_övertoning_64" data-name="Namnlös övertoning 64" x1="662.06909" y1="551.59292" x2="662.06909" y2="-15.93981" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4b84be"/>
+      <stop offset="0.19754" stop-color="#5289c1"/>
+      <stop offset="0.47799" stop-color="#6498c8"/>
+      <stop offset="0.80641" stop-color="#83b1d4"/>
+      <stop offset="1" stop-color="#98c2dd"/>
+    </linearGradient>
+    <linearGradient id="Namnlös_övertoning_54" data-name="Namnlös övertoning 54" x1="227.36253" y1="138.3337" x2="1324.13877" y2="138.3337" gradientUnits="userSpaceOnUse">
+      <stop offset="0.00755" stop-color="#fff" stop-opacity="0.15"/>
+      <stop offset="0.08692" stop-color="#dde8f3" stop-opacity="0.3034"/>
+      <stop offset="0.21594" stop-color="#adc8e2" stop-opacity="0.51583"/>
+      <stop offset="0.35095" stop-color="#86aed4" stop-opacity="0.69165"/>
+      <stop offset="0.49145" stop-color="#679aca" stop-opacity="0.82778"/>
+      <stop offset="0.63975" stop-color="#528bc2" stop-opacity="0.92439"/>
+      <stop offset="0.80115" stop-color="#4583bd" stop-opacity="0.98171"/>
+      <stop offset="1" stop-color="#4180bc"/>
+    </linearGradient>
+    <linearGradient id="Namnlös_övertoning_2" data-name="Namnlös övertoning 2" x1="926.8402" y1="659.01583" x2="465.16835" y2="-19.58741" gradientUnits="userSpaceOnUse">
+      <stop offset="0.051" stop-color="#203362"/>
+      <stop offset="0.28116" stop-color="#17497f"/>
+      <stop offset="0.57154" stop-color="#0d5f9c"/>
+      <stop offset="0.82141" stop-color="#076daf"/>
+      <stop offset="1" stop-color="#0572b5"/>
+    </linearGradient>
+    <linearGradient id="Namnlös_övertoning_71" data-name="Namnlös övertoning 71" x1="4724.05804" y1="-2946.54279" x2="4905.81316" y2="-2447.1747" gradientTransform="matrix(-0.3843, 0.9232, 0.9232, 0.3843, 4749.49532, -3174.85707)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.4"/>
+      <stop offset="0.1548" stop-color="#fff" stop-opacity="0.26809"/>
+      <stop offset="0.32602" stop-color="#fff" stop-opacity="0.15145"/>
+      <stop offset="0.49493" stop-color="#fff" stop-opacity="0.06749"/>
+      <stop offset="0.65876" stop-color="#fff" stop-opacity="0.01703"/>
+      <stop offset="0.81169" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <title>ATG_primary_RGB</title>
+  <g id="Lager_11" data-name="Lager 11">
+    <g id="Lager_3" data-name="Lager 3">
+      <g>
+        <g>
+          <polygon points="229.085 2.502 3.809 541.084 1095.513 541.084 1320.767 2.502 229.085 2.502" fill="#006bab"/>
+          <g clip-path="url(#clip-path)">
+            <polygon points="1291.827 22.463 568.236 276.667 1083.19 521.123 1097.105 543.67 1324.139 0.171 1291.827 22.463" fill="url(#Namnlös_övertoning_13)"/>
+            <path d="M1083.18632,521.11109,568.23183,276.65564,34.96444,521.12283,0,543.52l1097.1053.14972Z" fill="url(#Namnlös_övertoning_4)"/>
+            <polygon points="227.363 0 0 543.52 34.964 521.123 568.236 276.667 1291.827 22.463 1324.138 0.171 227.363 0" fill="url(#Namnlös_övertoning_64)"/>
+            <polygon points="227.363 0 242.832 22.456 568.223 276.667 1291.827 22.463 1324.139 0.171 227.363 0" fill="url(#Namnlös_övertoning_54)"/>
+          </g>
+        </g>
+        <polygon points="1291.84 22.463 242.832 22.456 34.964 521.123 1083.19 521.123 1291.84 22.463" fill="url(#Namnlös_övertoning_2)"/>
+        <g>
+          <path d="M287.276,174.656,109.51306,421.16536H218.9675l35.95375-52.53514H355.13879l-7.44449,52.53514h95.45693L484.3192,122.113h-87.143C334.56622,122.113,316.17747,134.3874,287.276,174.656Zm78.81413,121.29727H304.64177l74.58432-109.03862h3.4911Z" fill="#ffde00"/>
+          <path d="M1007.10185,199.61984H1137.1515c12.68962-56.04987-.44633-81.88312-119.544-81.88312-125.65091,0-158.93574,20.14258-211.47087,145.36961-40.72224,97.195-35.90808,162.44319,106.4004,162.44319,131.34139,0,154.10643-38.52267,206.64866-166.3887l10.95214-26.70977h-116.468c-38.96861,0-46.85175,3.4919-63.92534,42.47606l-13.136,29.763h57.79582c-14.44324,38.09977-24.07942,43.36045-59.541,43.36045-45.10639,0-53.41934-10.52136-22.32639-84.94424C938.80811,200.48139,953.69,199.61984,1007.10185,199.61984Z" fill="#ffde00"/>
+          <path d="M809.19692,184.28433,835.90668,122.113H602.96329c-57.35717,0-67.41625,5.69146-91.06489,60.43325l-9.637,22.32639H611.28509L519.335,421.16536H626.17407l91.51161-216.29271h52.54283C797.37692,204.87265,803.05972,198.72757,809.19692,184.28433Z" fill="#ffde00"/>
+          <g>
+            <path d="M1181.53164,118.57652c-15.58732,0-24.17971,10.54015-24.17971,24.18369,0,13.64421,8.59239,24.179,24.17971,24.179,15.582,0,24.185-10.53484,24.185-24.179C1205.71666,129.11667,1197.11365,118.57652,1181.53164,118.57652Zm0,44.87589c-14.096,0-20.36912-9.50524-20.36912-20.6922,0-11.12725,6.27313-20.6975,20.36912-20.6975s20.37443,9.57025,20.37443,20.6975C1201.90607,153.94717,1195.62762,163.45241,1181.53164,163.45241Z" fill="#ffde00"/>
+            <path d="M1187.42266,147.55131c-.89692-1.31487-1.555-2.27149-2.44663-2.511v-.05971c4.474-.89626,6.26783-3.40259,6.26783-7.70675,0-5.44521-2.74914-8.25008-10.5773-8.25008a56.5757,56.5757,0,0,0-7.17006.59773c-.30251.0597-.36089.23882-.36089.47831v24.80994a.31873.31873,0,0,0,.36089.3589h3.58238c.23882,0,.35028-.11941.35028-.3589v-9.57025h3.83181l5.92286,9.39113c.23883.41861.30251.538.83854.538h3.87958c.41927,0,.47765-.29919.30252-.59772Zm-6.69772-5.79416h-3.29578V132.9644c.483-.0597,2.10166-.11941,3.29578-.11941,4.90388,0,5.86448.23883,5.86448,4.42888C1186.58942,141.45862,1185.57044,141.75715,1180.72494,141.75715Z" fill="#ffde00"/>
+          </g>
+        </g>
+        <polygon points="242.832 22.456 34.966 521.122 506.171 521.17 866.217 22.456 242.832 22.456" fill="url(#Namnlös_övertoning_71)"/>
+      </g>
+    </g>
+  </g>
+</svg>
